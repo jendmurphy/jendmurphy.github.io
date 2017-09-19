@@ -1,1 +1,0 @@
-# jendmurphy.github.io
