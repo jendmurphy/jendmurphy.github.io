@@ -1,2 +1,4 @@
-	name: Jen Murphy, PhD Student
-	markdown: kramdown
+name: Jen Murphy, PhD Student
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
