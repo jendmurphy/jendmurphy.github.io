@@ -34,7 +34,8 @@ body {
 
 . myresearch {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    list-style: none;
+    list-style-type: none;
+    display: inline;
 }
 
 . mycontact {
