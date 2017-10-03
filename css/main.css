@@ -32,10 +32,10 @@ body {
     color: white;
 }
 
-. myresearch {
+ul#researchlinks {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style-type: none;
-    display: inline;
+    
 }
 
 . mycontact {
