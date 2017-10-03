@@ -37,7 +37,7 @@ body {
     list-style: none;
 }
 
-. contact {
+. mycontact {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
 }
@@ -52,6 +52,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
