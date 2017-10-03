@@ -35,9 +35,12 @@ body {
 ul#researchlinks {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style-type: none;
-    display:inline;
-    text-align: center;
-    
+    text-align: center;    
+}
+
+ul#researchlinks li {
+    display: inline;
+    margin: 0px 2px;
 }
 
 . mycontact {
