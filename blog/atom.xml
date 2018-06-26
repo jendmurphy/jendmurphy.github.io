@@ -11,7 +11,7 @@ layout: feed
 	<id>http://jendmurphy.github.io/blog</id>
 	<author>
 		<name>Jen Murphy</name>
-		<email>jennifer.murphy@postgrad.manchester.ac.uk</email>
+		<email>jennifer.murphy@manchester.ac.uk</email>
 	</author>
 
 	{% for post in site.posts %}
